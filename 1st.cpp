@@ -1,5 +1,6 @@
 #include<iostream>
 #include<cstring>
+//file has been chaged
 using namespace std;
 class student{
 private:
